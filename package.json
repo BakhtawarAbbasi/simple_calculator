@@ -1,5 +1,5 @@
 {
-  "name": "bakhtawarabbasiSimple_Calculator",
+  "name": "bakhtawarabbasisimple_calculator",
   "version": "1.0.0",
   "description": "A simple calculator with typescript, Node.js, Inquirer",
   "main": "index.js",
